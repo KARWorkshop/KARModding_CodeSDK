@@ -1,0 +1,22 @@
+.ifndef KAR_SDK_RIDER_KEYCODES
+
+#defines the keycodes so we can use them to get input
+
+.set KEYCODE_A, 999
+.set KEYCODE_B, 999
+.set KEYCODE_X, 999
+.set KEYCODE_Y, 999
+
+.set KEYCODE_L, 999
+.set KEYCODE_R, 999
+
+.set KEYCODE_ZL_BUMPER, 999
+.set KEYCODE_ZR_BUMPER, 999
+
+.set KEYCODE_PAD_UP, 999
+.set KEYCODE_PAD_DOWN, 999
+.set KEYCODE_PAD_LEFT, 999
+.set KEYCODE_PAD_RIGHT, 999
+
+.endif
+.set KAR_SDK_RIDER_KEYCODES, 1
