@@ -14,7 +14,7 @@ Toolchain contains the tools for writing, compiling, and packaging codes.
 Symbol Maps are includes that define every function found in the JP, NA, and PAL decomps of KAR.
 
 [KAR DTK Decomp]() this is the one Jas manages and sources the symbols from.
-[KAR Decom]() this is the OG NA one ran by Wow Jinxy, they are amazing and have some of it already in C.
+[KAR Decomp]() this is the OG NA one ran by Wow Jinxy, they are amazing and have some of it already in C.
 
 ## Why make codes? && Example Projects
 
