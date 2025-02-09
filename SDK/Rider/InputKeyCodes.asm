@@ -2,6 +2,13 @@
 
 #defines the keycodes so we can use them to get input
 
+#defines controller port indexes
+GC_SYSTEM_CONTROLLER_PORT_1, 0
+GC_SYSTEM_CONTROLLER_PORT_2, 1
+GC_SYSTEM_CONTROLLER_PORT_3, 2
+GC_SYSTEM_CONTROLLER_PORT_4, 3
+
+#defines controller input ports
 .set KEYCODE_A, 999
 .set KEYCODE_B, 999
 .set KEYCODE_X, 999
